@@ -36,7 +36,8 @@
 
 .feed__item_text {
 	background-color: black; 
-	color: white; height: 140px; 
+	color: white; 
+	height: 140px; 
 	padding: 10px 15px; 
 	font-size: 18px; 
 	font-weight: bold; 
